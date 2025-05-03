@@ -1,0 +1,10 @@
+{
+  "name": "wava-alternative-root",
+  "version": "1.0.0",
+  "description": "Root package for Netlify deployment dependencies",
+  "private": true,
+  "dependencies": {
+    "serverless-http": "^3.2.0"
+  }
+}
+
