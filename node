@@ -1,6 +1,1 @@
-git init
-echo "node_modules/" > .gitignore
-git add .
-git commit -m "Ready for Netlify"
-git remote add origin YOUR_GITHUB_REPO_URL
-git push -u origin main
+
